@@ -29,7 +29,7 @@
 <div>
   <h2><strong>🛠 사용 기술 스택</strong></h2>
   <ul>
-    <li><strong>언어</strong>:Python </li>
+    <li><strong>언어</strong> : Python </li>
     <li><strong>라이브러리와 프레임워크 </strong>: pytorch, Mediapipe</li>
     <li><strong>시각화</strong> : Tableau, matplotlib
   </ul>
