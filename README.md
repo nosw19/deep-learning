@@ -46,6 +46,7 @@
         <li>비만율 통계와 헬스 이용객 통계를 분석하여 운동 자세의 중요성을 확인</li>
       </ul>
     </li>
+    <br>
     <li><strong>2.데이터 설명</strong>
       <ul>
         <li><strong>활용 데이터:</strong>
@@ -55,6 +56,7 @@
             <li>운동 관련 감정 분석 데이터</li>
           </ul>
         </li>
+        <br>
         <li><strong>데이터 수집 출처:</strong>
           <ul>
             <li>AI Hub</li>
@@ -64,6 +66,7 @@
         </li>
       </ul>
     </li>
+    <br>
     <li><strong>3.데이터 분석</strong>
       <ul>
           <li>TSM(Temporal Shift Module) 기반 딥러닝 모델</li>
@@ -78,12 +81,14 @@
           </ul>
       </ul>
     </li>
+    <br>
     <li><strong>4.모델 및 시연영상 구현</strong>
       <ul>
         <li>TSM 모델로 운동 자세 분류 및 평가 시연</li>
         <li>자세의 정확도 평가 기준</li>
       </ul>
     </li>
+    <br>
     <li><strong>5.홈페이지 생성</strong>
       <ul>
         <li>flask를 활용한 홈페이지 제작</li>
