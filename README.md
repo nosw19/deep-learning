@@ -31,7 +31,7 @@
   <ul>
     <li><strong>언어</strong> : Python, DBeaver </li>
     <li><strong>라이브러리와 프레임워크 </strong>: pytorch, Mediapipe</li>
-성</strong> : flask</li>  
+    <li><strong>홈페이지 생성</strong> : flask</li>  
   </ul>
 </div>
 
